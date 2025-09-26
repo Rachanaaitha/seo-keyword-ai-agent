@@ -1,8 +1,8 @@
-# 🔍 SEO Keyword AI Agent
+#  SEO Keyword AI Agent
 
 An AI-powered SEO keyword research tool that generates 50 high-opportunity keywords from any seed keyword, sorted by low competition and high search volume.
 
-## 🚀 Features
+##  Features
 
 - **AI-Powered Expansion**: Uses Ollama AI to generate relevant keyword variations
 - **Real SEO Data**: Integrates with SE Ranking API for accurate metrics
@@ -10,7 +10,7 @@ An AI-powered SEO keyword research tool that generates 50 high-opportunity keywo
 - **N8N Automation**: Ready-to-use workflow automation
 - **Professional UI**: Clean, responsive interface
 
-## 📋 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -45,7 +45,7 @@ marketing\)
 Keywords\
 4. Get 50 sorted keyword opportunities
 
-## 📊 Example Output
+##  Example Output
 - **Input**: \digital
 marketing\
 - **Output**: 50 keywords with volume, competition, opportunity scores
@@ -54,14 +54,14 @@ marketing
 for
 beginners\ - 1200 searches, 15% competition
 
-## 🛠️ Technology Stack
+##  Technology Stack
 - **Backend**: Python Flask
 - **AI**: Ollama (Mistral model)
 - **SEO Data**: SE Ranking API
 - **Frontend**: HTML/CSS/JavaScript
 - **Automation**: N8N workflows
 
-## 📁 Project Structure
+##  Project Structure
 \\\
 seo-keyword-ai-agent/
 ├── backend/          # Flask API server
@@ -71,16 +71,16 @@ seo-keyword-ai-agent/
 └── examples/        # Sample outputs
 \\\
 
-## 🔧 API Endpoints
+##  API Endpoints
 - \POST /generate-keywords\ - Generate keywords
 - \GET /health\ - Health check
 - \POST /n8n-webhook\ - N8N integration
 
-## 📄 License
+##  License
 MIT License - see LICENSE file for details.
 
-## 🤝 Contributing
+##  Contributing
 Contributions welcome! Please feel free to submit issues and pull requests.
 
 ---
-**Built with ❤️ for SEO professionals and content creators**
+**Built with  for SEO professionals and content creators**
