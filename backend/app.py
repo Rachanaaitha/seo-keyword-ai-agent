@@ -133,7 +133,7 @@ class KeywordExpander:
 
 class SERankingAnalyzer:
     def __init__(self):
-        self.api_key = os.getenv('SE_RANKING_API_KEY', 'ca1ca968-d88b-3d7a-9394-c6f08161367a')
+        self.api_key = os.getenv('SE_RANKING_API_KEY', '')
         self.base_url = "https://api4.seranking.com"
         
     def analyze(self, keywords):
