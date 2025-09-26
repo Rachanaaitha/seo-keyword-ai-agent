@@ -79,8 +79,4 @@ seo-keyword-ai-agent/
 ##  License
 MIT License - see LICENSE file for details.
 
-##  Contributing
-Contributions welcome! Please feel free to submit issues and pull requests.
 
----
-**Built with  for SEO professionals and content creators**
